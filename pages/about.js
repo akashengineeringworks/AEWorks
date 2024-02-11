@@ -2,7 +2,6 @@
 import Head from "next/head";
 import Navbar from "../components/navbar";
 import Footer from "../components/footer";
-import PopupWidget from "../components/popupWidget";
 import About from "../components/AboutComp";
 
 export default function AboutPage() {
@@ -20,7 +19,6 @@ export default function AboutPage() {
         <Navbar />
         <About/>
         <Footer />
-        {/* <PopupWidget /> */}
         </>
         </>
     );
