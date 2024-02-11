@@ -2,7 +2,7 @@
 import Head from "next/head";
 import Navbar from "../components/navbar";
 import Footer from "../components/footer";
-import About from "../components/AboutComp";
+import About from "../components/About";
 
 export default function AboutPage() {
     return(
