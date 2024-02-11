@@ -1,6 +1,6 @@
 import Container from "./container";
 
-export default function About(){
+export default function AboutPage(){
     return (
         <>
         <Container className="grid md:grid-cols-1 sm:grid-cols-1 justify-items-center">
