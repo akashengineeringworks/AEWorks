@@ -20,7 +20,7 @@ const Home = () => {
           <title>AE Works</title>
           <meta
             name="description"
-            content="Akash Engineering app is used for sharing the expenses with our friends."
+            content="Akash Engineering Works."
           />
           <link rel="icon" href="/favicon.ico" />
         </Head>
